@@ -1,2 +1,17 @@
-# Mediqplus
-MediQPlus is an open-source healthcare management system that helps small clinics handle patient records, appointments and day-to-day clinic workflows. Most commercial hospital and clinic management software in India is priced for larger hospitals, and small clinics often end up on paper or spreadsheets.
+# Hi, I'm Naga Charan 👋
+
+UI/UX designer and M.Tech (AI/ML) student in India. I work where product design, AI and automation meet.
+
+## Currently building
+
+**[MediQPlus](https://github.com/nagacharann/mediqplus)**: open-source healthcare management software for small clinics, with a design-first approach to staff workflows and safe handling of patient data.
+
+## What I work on
+
+- Product and UX design for SaaS and enterprise tools
+- Computer vision and knowledge distillation
+- Agentic workflows and LLM automation
+
+## Get in touch
+
+Open an issue on [MediQPlus](https://github.com/nagacharann/mediqplus/issues) or reach out via my GitHub profile.
